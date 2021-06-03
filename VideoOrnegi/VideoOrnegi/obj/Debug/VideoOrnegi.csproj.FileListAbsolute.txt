@@ -1,0 +1,6 @@
+C:\Users\FATİH\Source\Repos\VideoOrnegi\VideoOrnegi\bin\Debug\VideoOrnegi.exe.config
+C:\Users\FATİH\Source\Repos\VideoOrnegi\VideoOrnegi\bin\Debug\VideoOrnegi.exe
+C:\Users\FATİH\Source\Repos\VideoOrnegi\VideoOrnegi\bin\Debug\VideoOrnegi.pdb
+C:\Users\FATİH\Source\Repos\VideoOrnegi\VideoOrnegi\obj\Debug\VideoOrnegi.csprojAssemblyReference.cache
+C:\Users\FATİH\Source\Repos\VideoOrnegi\VideoOrnegi\obj\Debug\VideoOrnegi.exe
+C:\Users\FATİH\Source\Repos\VideoOrnegi\VideoOrnegi\obj\Debug\VideoOrnegi.pdb
